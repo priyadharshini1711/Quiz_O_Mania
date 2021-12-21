@@ -195,7 +195,7 @@ public class Kollywood extends javax.swing.JFrame {
         if(c.equals("AVM"))
             s++;
         d=jComboBox4.getSelectedItem().toString();
-        if(d.equals("Kamal Hasans"))
+        if(d.equals("Kamal Hasan"))
             s++;
         e=jComboBox5.getSelectedItem().toString();
         if(e.equals("5000"))
